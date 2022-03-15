@@ -1,5 +1,5 @@
 ﻿## 在GoogleChrome中安装Hoxx这款vpn的方法
-
+#### 如果这有用的话别忘了给我一颗星★:-)
 >By cm
 ### 具体步骤：
  1. 打开网址[点击进入下载处](https://github.com/cmOblivion/hoxx)，并点击Code，然后点击Download ZIP，将文件下载到任意处。（github有时可能打不开，过会就好了）
@@ -19,6 +19,6 @@
 
 > 欢迎提出疑问 我的邮箱：cm1oblivion@gmail.com
 
-> 声明：© 2014-2021 All Rights Reserved. Hoxx is a pending trademark.
+ > 声明：© 2014-2021 All Rights Reserved. Hoxx is a pending trademark.
 Hoxx暂无版权。
 
