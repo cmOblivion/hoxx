@@ -19,6 +19,6 @@
 
 > 欢迎提出疑问 我的邮箱：cm1oblivion@gmail.com
 
- > 声明：© 2014-2021 All Rights Reserved. Hoxx is a pending trademark.
+> 声明：© 2014-2021 All Rights Reserved. Hoxx is a pending trademark.
 Hoxx暂无版权。
 
